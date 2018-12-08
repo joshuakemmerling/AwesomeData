@@ -15,3 +15,5 @@ Collection of data sets so I don't have to worry about finding them anymore. Let
 **us-holidays.csv** - Holiday name and date.
 
 **us-postal-codes.csv** - U.S. postal codes, place name, state, state abbreviation, county, latitude, longitude.
+
+**us-presidents.csv** - List of people that have served as the U.S. President.
