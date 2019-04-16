@@ -1,16 +1,16 @@
-Name,Party
-George Washington,Independent
-John Adams,Federalist
-Thomas Jefferson,Democratic-Republican
-James Madison,Democratic-Republican
-James Monroe,Democratic-Republican
-John Quincy Adams,Democratic-Republican/National Republican
-Andrew Jackson,Democratic
-Martin Van Buren,Democratic
-William Henry Harrison,Whig
-John Tyler,Whig
-James K. Polk,Democratic
-Zachary Taylor,Whig
+Name,Party,Term Start Date,Term End Date
+George Washington,Independent,"April 30, 1789","March 4, 1797"
+John Adams,Federalist,"March 4, 1797","March 4, 1801"
+Thomas Jefferson,Democratic-Republican,"March 4, 1801","March 4, 1809"
+James Madison,Democratic-Republican,"March 4, 1809","March 4, 1817"
+James Monroe,Democratic-Republican,"March 4, 1817","March 4, 1825"
+John Quincy Adams,Democratic-Republican/National Republican,"March 4, 1825","March 4, 1829"
+Andrew Jackson,Democratic,"March 4, 1829","March 4, 1837"
+Martin Van Buren,Democratic,"March 4, 1837","March 4, 1841"
+William Henry Harrison,Whig,"March 4, 1841","April 4, 1841"
+John Tyler,Whig,"April 4, 1841","March 4, 1845"
+James K. Polk,Democratic,"March 4, 1845","March 4, 1849"
+Zachary Taylor,Whig,"March 4, 1849","July 9, 1850"
 Millard Fillmore,Whig
 Franklin Pierce,Democratic
 James Buchanan,Democratic
